@@ -709,8 +709,3 @@ Note: If you see error in Prometheus under "k8s", open port number 9100 for the 
 After everything is done. Delete everything. Make sure to delete the Cloud Formation Stacks.
 
 ========================================================================================================
-Kind Request:
-Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
-========================================================================================================
-												HAPPY LEARNING
-
