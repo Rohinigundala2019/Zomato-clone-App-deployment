@@ -1,8 +1,6 @@
-DevOps Project - Kastro
-Deployment of ZOMATO Project
---------------------------------------------
-Repo URL: https://github.com/KastroVKiran/DevOps-Project-Zomato-Kastro.git
+**8Deployment of Zomato Clone App end-to-end***
 
+Deploying the Zomato Clone App using jenkins, docker, kuberenetes and Monitoring Tools
 
 1. Launch an Instance (Ubuntu, 24.04, t2.large, 30 GB)
 
